@@ -1,0 +1,6 @@
+train: E:\Helmet detection\dataset\images\train
+val: E:\Helmet detection\dataset\images\val
+
+nc: 2
+names: ['helmet', 'no helmet']
+
